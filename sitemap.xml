@@ -2,23 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.douzhili.com/Video/index.html</loc>
+    <loc>http://www.douzhili.com/image_page/image_page.html</loc>
+    
+    <lastmod>2016-07-24T12:11:31.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.douzhili.com/2016/07/24/Image-index/</loc>
+    
+    <lastmod>2016-07-24T12:08:49.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.douzhili.com/2016/07/24/Video-index/</loc>
+    
+    <lastmod>2016-07-24T12:06:43.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.douzhili.com/video/video_page.html</loc>
     
     <lastmod>2016-07-24T12:05:10.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.douzhili.com/2016/07/24/TestVideo/</loc>
-    
-    <lastmod>2016-07-24T12:04:50.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.douzhili.com/2016/07/24/Video/</loc>
-    
-    <lastmod>2016-07-24T12:02:30.000Z</lastmod>
     
   </url>
   
