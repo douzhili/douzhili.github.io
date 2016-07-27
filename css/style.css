@@ -465,7 +465,7 @@ article .container .row .video-container embed {
 }
 article .container .row blockquote {
   font-style: italic;
-  font-family: "Georgia", serif;
+  font-family: "Georgia", sans-serif;
   font-size: 1.2em;
   padding: 0 30px 15px;
   text-align: center;
