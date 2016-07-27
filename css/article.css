@@ -1,6 +1,6 @@
 article .container .row img {
   max-width: 100% !important;
-  height: auto;
+  height: 80%;
   display: inline-block;
 }
 article .container .row .video-container {
