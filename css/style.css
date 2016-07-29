@@ -375,6 +375,11 @@ code {
   color: rgba(255,255,255,0.7);
   text-shadow: 0 1px rgba(0,0,0,0.2);
 }
+#header-title .pad {
+  padding-top: 28px;
+  padding-bottom: 30px;
+  background-image: url("home-bg.jpg");
+}
 .nav-container .nav-icon,
 .nav-container .nav-container-inner #main-nav .main-nav-list-item .main-nav-list-link {
   float: left;
