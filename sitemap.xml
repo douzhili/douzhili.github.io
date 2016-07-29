@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.douzhili.com/2016/07/26/cv_chinese/</loc>
+    
+    <lastmod>2016-07-29T19:58:58.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.douzhili.com/2016/07/26/cv_francais/</loc>
+    
+    <lastmod>2016-07-29T19:58:03.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.douzhili.com/2016/07/26/cv_english/</loc>
+    
+    <lastmod>2016-07-29T19:57:33.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.douzhili.com/2016/07/27/hexo_github/</loc>
     
     <lastmod>2016-07-29T19:50:18.000Z</lastmod>
@@ -26,27 +47,6 @@
     <loc>http://www.douzhili.com/liuyanban/index.html</loc>
     
     <lastmod>2016-07-27T16:45:24.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.douzhili.com/2016/07/26/cv_chinese/</loc>
-    
-    <lastmod>2016-07-27T16:44:47.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.douzhili.com/2016/07/26/cv_francais/</loc>
-    
-    <lastmod>2016-07-27T16:44:30.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.douzhili.com/2016/07/26/cv_english/</loc>
-    
-    <lastmod>2016-07-27T16:43:43.000Z</lastmod>
     
   </url>
   
