@@ -267,14 +267,14 @@ code {
 .logo {
   display: block;
   padding: 10px 0;
-  width: 330px;
-  height: 120px;
+  width: 110px;
+  height: 40px;
   background-image: url("images/logo-header.png");
   background-position: 0px 10px;
   background-repeat: no-repeat;
-  -webkit-background-size: 330px 120px;
-  -moz-background-size: 330px 120px;
-  background-size: 330px 120px;
+  -webkit-background-size: 110px 40px;
+  -moz-background-size: 110px 40px;
+  background-size: 110px 40px;
 }
 .main-body {
   margin-top: -60px;
@@ -371,7 +371,7 @@ code {
 #header-title .subtitle {
   font-size: 16px;
   font-style: italic;
-  line-height: 130px;
+  line-height: 50px;
   color: rgba(255,255,255,0.7);
   text-shadow: 0 1px rgba(0,0,0,0.2);
 }
@@ -1581,11 +1581,11 @@ a.article-title:hover {
   line-height: 22px;
 }
 #footer .logo {
-  width: 264px;
-  height: 96px;
-  -webkit-background-size: 264px 96px;
-  -moz-background-size: 264px 96px;
-  background-size: 264px 96px;
+  width: 88px;
+  height: 32px;
+  -webkit-background-size: 88px 32px;
+  -moz-background-size: 88px 32px;
+  background-size: 88px 32px;
 }
 i.icon {
   display: inline-block;
