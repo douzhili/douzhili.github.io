@@ -369,10 +369,9 @@ code {
   margin-left: 20px;
 }
 #header-title .subtitle {
-  font-size: 16px;
-  font-style: italic;
+  font-size: 20px;
   line-height: 70px;
-  color: rgba(255,255,255,0.7);
+  color: #fff;
   text-shadow: 0 1px rgba(0,0,0,0.2);
 }
 .nav-container .nav-icon,
