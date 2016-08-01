@@ -342,6 +342,7 @@ code {
   -webkit-background-origin: content;
   -moz-background-origin: content;
   background-origin: content-box;
+  background-position: center;
   padding-bottom: 60px;
   position: relative;
 }
