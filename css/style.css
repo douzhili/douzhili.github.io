@@ -339,6 +339,9 @@ code {
 #header {
   background: url("images/home-bg.png");
   background-repeat: no-repeat;
+  -webkit-background-origin: content;
+  -moz-background-origin: content;
+  background-origin: content-box;
   padding-bottom: 60px;
   position: relative;
 }
